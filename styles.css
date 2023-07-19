@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 .first-con::before{
-	content: "Before Element ";
+	content: "Before Element";
 	color: red;
 }
 .first-con::after{
