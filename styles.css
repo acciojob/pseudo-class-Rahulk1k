@@ -1,7 +1,9 @@
 /*  your css code here. If applicable */
 .first-con::before{
 	content: "Before Element ";
+	color: red;
 }
 .first-con::after{
 	content: "After Element.";
+	color: red;
 }
